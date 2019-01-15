@@ -1,5 +1,6 @@
 #/usr/bin/env bash -e
 
+
 VENV=venv
 
 if [ ! -d "$VENV" ]
@@ -16,5 +17,6 @@ then
 fi
 
 . $VENV/bin/activate
+
 
 pip install -r requirements.txt
