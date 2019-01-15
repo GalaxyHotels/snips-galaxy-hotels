@@ -1,0 +1,5 @@
+# Bindings for the hermes protocol 
+hermes_python==0.1.23
+# codes postaux Bindings
+simplejson
+requests
